@@ -1,1 +1,1 @@
-export { BottomSheet } from './components/BottomSheet.tsx';
+export { BottomSheet } from './components/BottomSheet';
