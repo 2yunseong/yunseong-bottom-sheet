@@ -8,7 +8,7 @@ type BottomSheetProps = {
   onToggleOpen: () => void;
 };
 
-export const BottomSheet = ({
+const BottomSheet = ({
   children,
   isOpen,
   onToggleOpen,
@@ -26,3 +26,5 @@ export const BottomSheet = ({
     </>
   );
 };
+
+export default BottomSheet;
