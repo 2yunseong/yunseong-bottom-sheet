@@ -1,6 +1,6 @@
 {
   "name": "yunseong-bottom-sheet",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "yunseong bottom sheet",
   "main": "./index.js",
   "scripts": {
