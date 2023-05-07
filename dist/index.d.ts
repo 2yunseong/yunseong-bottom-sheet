@@ -1,5 +1,5 @@
 import { PropsWithChildren } from 'react';
-import './BottomSheet.css';
+import './index.css';
 type BottomSheetProps = {
     isOpen: boolean;
     onToggleOpen: () => void;

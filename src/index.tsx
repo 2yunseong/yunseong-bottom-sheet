@@ -1,6 +1,6 @@
 import React, { PropsWithChildren } from 'react';
 
-import './BottomSheet.css';
+import './index.css';
 import { createPortal } from 'react-dom';
 
 type BottomSheetProps = {
