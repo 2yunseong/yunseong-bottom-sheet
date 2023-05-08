@@ -1,10 +1,10 @@
 {
   "name": "yunseong-bottom-sheet",
-  "version": "2.1.2",
+  "version": "3.0.1",
   "description": "yunseong bottom sheet",
-  "main": "index.js",
-  "types": "index.d.ts",
-  "module": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "module": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "clean": "rm -rf dist",
